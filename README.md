@@ -8,9 +8,9 @@ The DriverPass project was intended to develop a comprehensive system that would
 
 - What did you do particularly well?
 
-  One area in which I have demonstrated proficiency is my adeptness in comprehensively analyzing the client's requirements and effectively documenting them within the business requirement document. My ability to discern and articulate these requirements accurately not only ensures a clear understanding of the client's needs but also forms a solid foundation for project success.
+One area in which I have demonstrated proficiency is my adeptness in comprehensively analyzing the client's requirements and effectively documenting them within the business requirement document. My ability to discern and articulate these requirements accurately not only ensures a clear understanding of the client's needs but also forms a solid foundation for project success.
 
-Furthermore, the meticulous organization I employed across various project documents serves as a testament to my commitment to delivering structured and well-organized materials. An organized approach is essential in ensuring that all project components align seamlessly, facilitating efficient project execution. This skill, I believe, is a valuable asset that I am determined to bring to the table when presenting projects to our stakeholders in my forthcoming professional endeavors.
+Furthermore, the meticulous organization I applied across various project documents serves as a testament to my commitment to delivering structured and well-organized materials. An organized approach is essential in ensuring that all project components align seamlessly, facilitating efficient project execution. This skill, I believe, is a valuable asset that I am determined to bring to the table when presenting projects to our stakeholders in my forthcoming professional endeavors.
 
 - If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
